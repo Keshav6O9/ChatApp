@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d02682d1-9794-4016-80cf-9d512719baeb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/char-room",
+    "appService.deploySubpath": "."
+}
